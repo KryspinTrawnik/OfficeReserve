@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfficeReserve.Api", "OfficeReserve.Api\OfficeReserve.Api.csproj", "{920276DA-8FEE-44F4-A1E2-96F71BC6968D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{0BBF81CF-9742-4789-8E2D-7C7B8B276173}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{48D0B66E-A904-451B-9672-46794FA296C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920276DA-8FEE-44F4-A1E2-96F71BC6968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920276DA-8FEE-44F4-A1E2-96F71BC6968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920276DA-8FEE-44F4-A1E2-96F71BC6968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920276DA-8FEE-44F4-A1E2-96F71BC6968D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{920276DA-8FEE-44F4-A1E2-96F71BC6968D} = {0BBF81CF-9742-4789-8E2D-7C7B8B276173}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D6FA19-1587-45FD-BC21-15306E563D96}
+	EndGlobalSection
+EndGlobal
