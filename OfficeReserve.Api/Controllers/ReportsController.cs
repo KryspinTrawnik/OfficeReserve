@@ -4,6 +4,9 @@ using OfficeReserve.Api.Models;
 
 namespace OfficeReserve.Api.Controllers
 {
+    /// <summary>
+    /// Generates reports on usage and bookings.
+    /// </summary>
     [Route("api/reports")]
     [ApiController]
     public class ReportsController : ControllerBase
